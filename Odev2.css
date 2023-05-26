@@ -1,0 +1,73 @@
+/* Google Logo Display*/
+.image{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 351;
+    height: 113;
+}
+
+/* First Block*/
+
+.fback{
+    text-align: center;
+    background-color: rgb(229, 227, 227);
+    width: 700px;
+    margin: auto;
+    
+
+}
+
+/* Search Bar*/
+.fback .search {
+  text-align: center;
+  background-color: white;
+  width: 300px;
+  height: 30px;
+  border: 1px;
+  cursor: pointer;
+  border-style: inset;
+}
+
+/* Two bottoms below search bar */
+.option {
+    display: inline-block;
+    padding:1px 10px 1px 10px;
+    margin: 3px;
+    background-color: rgb(215, 213, 213);
+    font-family: Roboto,sans-serif;
+     
+}
+
+.gback {
+    text-align: center;
+    background-color:aquamarine ;
+    margin: auto;
+    width: 700px;
+}
+.searchbottom {
+    display: inline-block;
+    list-style-type: none;
+    
+    text-align: center;
+
+}
+.Subscribe {
+  text-align: center;
+  background-color: white;
+  width: 250px;
+  height: 30px;
+  border: 1px;
+  cursor: pointer;
+  border-style: inset;
+  padding: 5px;
+}
+
+.copyright {
+    text-align: center;
+    font-family: system-ui;
+}
+.search {
+    width: 250px;
+    font-size: 12px;
+}
